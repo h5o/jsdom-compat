@@ -28,6 +28,6 @@
   },
   "homepage": "https://github.com/h5o/jsdom-compat",
   "dependencies": {
-    "jsdom": "*"
+    "jsdom": "3.x"
   }
 }
